@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cretuiscoming
+- 👋 Hi, I’m Kenny
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and golang
 - 💞️ I’m looking to collaborate on basic web development
